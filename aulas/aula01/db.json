@@ -1,0 +1,39 @@
+{
+  "contatos": [
+    {
+      "id": "96c6",
+      "nome": "Jose",
+      "email": "jose@iesb.br"
+    },
+    {
+      "id": "f2d3",
+      "nome": "Maria",
+      "email": "maria@iesb.br"
+    },
+    {
+      "id": "c6ba",
+      "nome": "Maria",
+      "email": "maria@iesb.br"
+    },
+    {
+      "id": "524c",
+      "nome": "Jose",
+      "email": "jose@iesb.br"
+    },
+    {
+      "id": "d1d1",
+      "nome": "Maria",
+      "email": "maria@iesb.br"
+    },
+    {
+      "id": "0512",
+      "nome": "Jose",
+      "email": "jose@iesb.br"
+    },
+    {
+      "id": "733a",
+      "nome": "Jose",
+      "email": "jose@iesb.br"
+    }
+  ]
+}
